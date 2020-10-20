@@ -1,0 +1,13 @@
+{
+  "name": "html-to-mobi",
+  "version": "1.0.0",
+  "description": "html to mobi converter",
+  "main": "index.js",
+  "repository": "https://github.com/madhusudanbabar/html-to-mobi.git",
+  "author": "krypton",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "epub-gen": "^0.1.0"
+  }
+}
